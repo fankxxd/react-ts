@@ -1,0 +1,16 @@
+{
+  "trailingComma": "all", 
+  "tabWidth": 4,
+  "semi": false, // 使用分号
+  "singleQuote": true, //单引号
+  "endOfLine": "auto",
+  "printWidth": 100,
+  "overrides": [
+      {
+          "files": "*.md",
+          "options": {
+              "tabWidth": 2
+          }
+      }
+  ]
+}
